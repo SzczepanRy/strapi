@@ -2,7 +2,7 @@ module.exports = ({ env }) => ({
   "netlify-deployments": {
     enabled: true,
     config: {
-      //   accessToken: "<netlify-access-token>",
+      accessToken: "Rcpcw-gT21vjiUdzUiTAJUDKXAJfTqwMdEj-l8ruh2Y",
       sites: [
         {
           name: "boisterous-tartufo-27f13f",
